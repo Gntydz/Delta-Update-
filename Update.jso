@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "26.4-kitsune-2",
-    "versionCode": "26400",
-    "link": "https://github.com/HuskyDG/download/raw/main/magisk/26.4-kitsune-2.apk",
-    "note": "https://github.com/HuskyDG/download/raw/main/magisk/26.4-kitsune-2.md"
+    "version": "R65C33E4F-kitsune",
+    "versionCode": "27001",
+    "link": "https://github.com/HuskyDG/magisk-files/releases/download/1707294287/app-debug.apk",
+    "note": "https://github.com/HuskyDG/magisk-files/releases/download/1707294287/app-debug.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://github.com/HuskyDG/download/raw/main/magisk/stub-release.apk"
+    "link": "https://github.com/HuskyDG/magisk-files/releases/download/1707294287/app-release.apk"
   }
 }
